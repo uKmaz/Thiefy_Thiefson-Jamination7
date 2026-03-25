@@ -4,7 +4,10 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - treasurePrefab: {instanceID: 0}
+  - treasurePrefab: {fileID: 3223969813183019462, guid: 482b8d1535ebc6a49b4a541300586874, type: 3}
+  - leftBottom: {instanceID: 0}
+  - rightTop: {instanceID: 0}
+  - poolManager: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
